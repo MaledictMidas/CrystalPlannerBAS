@@ -21,6 +21,7 @@ This is the first thing you will see when opening the HTML file. Just like in th
 > ### ⚠️ Warning:
 > Refreshing the HTML page deletes your progress. 
 > - Always **Load & Save** your progress with the Upload and Download buttons.
+> - A Template for all the B&S Spells can be found in the Repository: ``monolith-spell-BAS-Template.json``
 
 <img width="387" height="61" alt="image" src="https://github.com/user-attachments/assets/ddde777a-2041-4826-b5df-cb4ece3539bd" />
 
