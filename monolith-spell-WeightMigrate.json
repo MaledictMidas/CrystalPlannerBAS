@@ -1,0 +1,1073 @@
+{
+  "version": "3.0",
+  "slots": [
+    "custom-1782852495505",
+    "gravity",
+    "mind"
+  ],
+  "customElements": [
+    {
+      "id": "custom-1782852495505",
+      "name": "Weight",
+      "color": "#dc143c",
+      "glow": "rgba(220,20,60,0.7)",
+      "icon": "↓",
+      "isCustom": true
+    }
+  ],
+  "crystalDatabase": {
+    "body": [
+      {
+        "unlocked": false,
+        "skill": {
+          "name": "Dive Strike",
+          "description": "While airborne, punch with your fist, strike with a shield or stab with a dagger to propel yourself forwards. Unlocking this skill also increases your max health.",
+          "unlockCost": 0,
+          "refundValue": 0
+        },
+        "subSkills": [
+          {
+            "id": "ss-body-t1-1",
+            "name": "Discombobulate",
+            "description": "Blunt damage delivered to enemies' heads causes them to be stunned.",
+            "unlockCost": 3,
+            "refundValue": 3
+          },
+          {
+            "id": "ss-body-t1-2",
+            "name": "Ranged Expertise",
+            "description": "Arrows and daggers pierce through enemies, and you throw weapons with more force.",
+            "unlockCost": 3,
+            "refundValue": 3
+          },
+          {
+            "id": "ss-body-t1-3",
+            "name": "Skulker",
+            "description": "You are much harder to detect when crouching, and can pickpocket weapons from enemies.",
+            "unlockCost": 3,
+            "refundValue": 3
+          }
+        ]
+      },
+      {
+        "unlocked": false,
+        "skill": {
+          "name": "Second Wind",
+          "description": "Cheat death once per day. When triggered, nearby enemies are knocked over and you enter a brief rage, with increased strength and speed. Unlocking this skill also increases your max health.",
+          "unlockCost": 0,
+          "refundValue": 0
+        },
+        "subSkills": [
+          {
+            "id": "ss-body-t2-1",
+            "name": "Boomerang",
+            "description": "Shields will ricochet into enemies when thrown, and attempt to return to you on the second bounce.",
+            "unlockCost": 6,
+            "refundValue": 6
+          },
+          {
+            "id": "ss-body-t2-2",
+            "name": "Flykick",
+            "description": "Kicking while airborne will launch you forward.",
+            "unlockCost": 6,
+            "refundValue": 6
+          },
+          {
+            "id": "ss-body-t2-3",
+            "name": "Wrestler",
+            "description": "Grabbing enemies with two hands allows you to pick them up and throw them around.",
+            "unlockCost": 6,
+            "refundValue": 6
+          }
+        ]
+      },
+      {
+        "unlocked": false,
+        "skill": {
+          "name": "Martial Protege",
+          "description": "You can grab enemies with two hands and pull to tear off their limbs, as well as slice off limbs with an open-palm chop. Unlocking this skill also increases your max health.",
+          "unlockCost": 0,
+          "refundValue": 0
+        },
+        "subSkills": [
+          {
+            "id": "ss-body-t3-1",
+            "name": "Intimidation",
+            "description": "Enemies that witness death and brutality of their allies may surrender to you in fear.",
+            "unlockCost": 9,
+            "refundValue": 9
+          },
+          {
+            "id": "ss-body-t3-2",
+            "name": "Juggernaut",
+            "description": "Become an unstoppable force while sprinting, knocking back enemies you come into contact with.",
+            "unlockCost": 9,
+            "refundValue": 9
+          },
+          {
+            "id": "ss-body-t3-3",
+            "name": "Mighty Kick",
+            "description": "Kicks have increased power, now capable of sending enemies flying.",
+            "unlockCost": 9,
+            "refundValue": 9
+          }
+        ]
+      }
+    ],
+    "mind": [
+      {
+        "unlocked": false,
+        "skill": {
+          "name": "Slow Time",
+          "description": "Utilize Focus to slow time by pressing the slow time button. Focus runs out but can regain when not being used. Unlocking this skill also increases your maximum Focus pool.",
+          "unlockCost": 0,
+          "refundValue": 0
+        },
+        "subSkills": [
+          {
+            "id": "ss-mind-t1-1",
+            "name": "Telethrow",
+            "description": "Throw objects you have grabbed with telekinesis.",
+            "unlockCost": 3,
+            "refundValue": 3
+          },
+          {
+            "id": "ss-mind-t1-2",
+            "name": "Combat Focus",
+            "description": "Regenerate Focus from combat actions, such as parrying, achieving headshots, disarming enemies, deflecting fireballs, and killing enemies.",
+            "unlockCost": 3,
+            "refundValue": 3
+          },
+          {
+            "id": "ss-1782833874691",
+            "name": "Telespin",
+            "description": "Attract and repel an item at the same time (trigger + spell wheel button) to rapidly spin it in the air. Costs Focus.",
+            "unlockCost": 3,
+            "refundValue": 3,
+            "unlocked": false
+          }
+        ]
+      },
+      {
+        "unlocked": false,
+        "skill": {
+          "name": "Hyperfocus",
+          "description": "Hold the Slow Time button down to enter Hyperfocus. Time moves incredibly slowly, but you do not. Unlocking this skill also increases your maximum Focus pool.",
+          "unlockCost": 0,
+          "refundValue": 0
+        },
+        "subSkills": [
+          {
+            "id": "ss-mind-t2-1",
+            "name": "Focused Reflexes",
+            "description": "Enter Hyperfocus automatically when a projectile is coming toward you.",
+            "unlockCost": 6,
+            "refundValue": 6
+          },
+          {
+            "id": "ss-mind-t2-2",
+            "name": "Emergency Exit",
+            "description": "Enemies remain slowed for a few seconds when you run out of Focus while time is slowed.",
+            "unlockCost": 6,
+            "refundValue": 6
+          },
+          {
+            "id": "ss-1782834021939",
+            "name": "Precision Focus",
+            "description": "Drawing a bow while in the air triggers Hyperfocus with no Focus cost.",
+            "unlockCost": 6,
+            "refundValue": 6,
+            "unlocked": false
+          }
+        ]
+      },
+      {
+        "unlocked": false,
+        "skill": {
+          "name": "Marionette",
+          "description": "Telekinesis now works on enemies. Unlocking this skill also increases your maximum Focus pool.",
+          "unlockCost": 0,
+          "refundValue": 0
+        },
+        "subSkills": [
+          {
+            "id": "ss-mind-t3-1",
+            "name": "Force Choke",
+            "description": "Telegrab an enemy by the neck to slowly choke them to death.",
+            "unlockCost": 9,
+            "refundValue": 9
+          },
+          {
+            "id": "ss-mind-t3-2",
+            "name": "Stagger Throw",
+            "description": "Throw enemies with Telekinesis to stagger them in a direction.",
+            "unlockCost": 9,
+            "refundValue": 9
+          },
+          {
+            "id": "ss-1782834086883",
+            "name": "Rip and Tear",
+            "description": "Telegrab two limbs of an enemy and pull apart to dismember them.",
+            "unlockCost": 9,
+            "refundValue": 9,
+            "unlocked": false
+          }
+        ]
+      }
+    ],
+    "gravity": [
+      {
+        "unlocked": false,
+        "skill": {
+          "name": "Gravity Push",
+          "description": "Charge and cast a gravity wave that can stagger enemies.",
+          "unlockCost": 0,
+          "refundValue": 0
+        },
+        "subSkills": [
+          {
+            "id": "ss-grav-t1-1",
+            "name": "Feather Fall",
+            "description": "Cast and hold the gravity spell towards the ground to slow your fall.",
+            "unlockCost": 3,
+            "refundValue": 3
+          },
+          {
+            "id": "ss-grav-t1-2",
+            "name": "Impact Pulse",
+            "description": "Attacks with blunt gravity imbued weapons send enemies flying.",
+            "unlockCost": 3,
+            "refundValue": 3
+          },
+          {
+            "id": "ss-grav-t1-3",
+            "name": "Lithobrake",
+            "description": "Levitated enemies will slam to the ground once Levitation wears off.",
+            "unlockCost": 3,
+            "refundValue": 3
+          }
+        ]
+      },
+      {
+        "unlocked": false,
+        "skill": {
+          "name": "Boost Jump",
+          "description": "You can launch yourself by throwing a Gravity Push downwards. If you're in the air, you can push yourself in any direction. Unlocking this skill also boosts your Gravity charge speed and push force.",
+          "unlockCost": 0,
+          "refundValue": 0
+        },
+        "subSkills": [
+          {
+            "id": "ss-grav-t2-1",
+            "name": "Airstrike",
+            "description": "Punch downwards while falling with Gravity equipped to trigger a shockwave when you hit the ground.",
+            "unlockCost": 6,
+            "refundValue": 6
+          },
+          {
+            "id": "ss-grav-t2-2",
+            "name": "Riptide",
+            "description": "After you knock a creature over with a Gravity Push, quickly grip to hold them in the air, then throw to propel them.",
+            "unlockCost": 6,
+            "refundValue": 6
+          },
+          {
+            "id": "ss-grav-t2-3",
+            "name": "Weightless Boost",
+            "description": "Briefly become weightless after using a Boost Jump.",
+            "unlockCost": 6,
+            "refundValue": 6
+          }
+        ]
+      },
+      {
+        "unlocked": false,
+        "skill": {
+          "name": "Gravity Bubble",
+          "description": "Merge two Gravity spells, then pull your hands apart to create a bubble of zero gravity. Unlocking this skill also boosts your Gravity charge speed and push force.",
+          "unlockCost": 0,
+          "refundValue": 0
+        },
+        "subSkills": [
+          {
+            "id": "ss-grav-t3-1",
+            "name": "Dilation Bubble",
+            "description": "The Gravity Bubble now slows time for all objects inside it. Thrown items will keep their velocity when they exit the bubble, and you consume Focus at a vastly reduced rate.",
+            "unlockCost": 9,
+            "refundValue": 9
+          },
+          {
+            "id": "ss-grav-t3-2",
+            "name": "Gravity Hammer",
+            "description": "With a staff, point it at an object or enemy and press the use button to grab and freely manipulate it.",
+            "unlockCost": 9,
+            "refundValue": 9
+          },
+          {
+            "id": "ss-grav-t3-3",
+            "name": "Impulse Spike",
+            "description": "A point blank, pinpoint Gravity Push to enemy limbs can dismember them.",
+            "unlockCost": 9,
+            "refundValue": 9
+          }
+        ]
+      }
+    ],
+    "fire": [
+      {
+        "unlocked": false,
+        "skill": {
+          "name": "Fireball",
+          "description": "Charge a fireball by holding down the spell trigger. Once the spell is fully charged, throw your hand forwards and release the trigger to cast the fireball. The fireball can be guided through the air with your hand.",
+          "unlockCost": 0,
+          "refundValue": 0
+        },
+        "subSkills": [
+          {
+            "id": "ss-fire-t1-1",
+            "name": "Fireball Ricochet",
+            "description": "Fireballs can bounce off surfaces and metal armour, ricocheting into nearby enemies.",
+            "unlockCost": 3,
+            "refundValue": 3
+          },
+          {
+            "id": "ss-fire-t1-2",
+            "name": "Molten Arc",
+            "description": "Fire imbued weapons spray molten metal when swung that Ignites enemies.",
+            "unlockCost": 3,
+            "refundValue": 3
+          },
+          {
+            "id": "ss-fire-t1-3",
+            "name": "Conflagration",
+            "description": "Ignited enemies can spread ignition to nearby enemies.",
+            "unlockCost": 3,
+            "refundValue": 3
+          }
+        ]
+      },
+      {
+        "unlocked": false,
+        "skill": {
+          "name": "Remote Detonation",
+          "description": "Charging a fireball detonates the last fireball you threw with that hand, creating an explosion. Unlocking this skill also increases your Fire charge speed, fireball damage and enemies burn for longer",
+          "unlockCost": 0,
+          "refundValue": 0
+        },
+        "subSkills": [
+          {
+            "id": "ss-fire-t2-1",
+            "name": "Ignition Burst",
+            "description": "Enemies caught in the radius of a remote detonation will heat up and eventually ignite.",
+            "unlockCost": 6,
+            "refundValue": 6
+          },
+          {
+            "id": "ss-fire-t2-2",
+            "name": "Heatwave",
+            "description": "Charge the Fire spell and throw your hand without releasing it to punch a cone of flames that deals damage and Ignites enemies.",
+            "unlockCost": 6,
+            "refundValue": 6
+          },
+          {
+            "id": "ss-fire-t2-3",
+            "name": "Heavy Firepower",
+            "description": "Fireballs stagger enemies and impart extra force on objects hit.",
+            "unlockCost": 6,
+            "refundValue": 6
+          }
+        ]
+      },
+      {
+        "unlocked": false,
+        "skill": {
+          "name": "Meteor",
+          "description": "Charge two Fire spells separately, then merge your hands together to combine them. Once the merge is fully charged, you can throw a massive, explosive meteor.",
+          "unlockCost": 0,
+          "refundValue": 0
+        },
+        "subSkills": [
+          {
+            "id": "ss-fire-t3-1",
+            "name": "Detonation Swarm",
+            "description": "Remote Detonating a fireball on an Ignited enemy or corpse causes a homing projectile to emerge.",
+            "unlockCost": 9,
+            "refundValue": 9
+          },
+          {
+            "id": "ss-fire-t3-2",
+            "name": "Inferno Staff",
+            "description": "With a fire imbued staff, press the use button to spray a torrent of flames. Watch the recoil...",
+            "unlockCost": 9,
+            "refundValue": 9
+          },
+          {
+            "id": "ss-fire-t3-3",
+            "name": "Twin Flame",
+            "description": "Detonate two fireballs simultaneously to link them, superheating the air and igniting everything between them.",
+            "unlockCost": 9,
+            "refundValue": 9
+          }
+        ]
+      }
+    ],
+    "lightning": [
+      {
+        "unlocked": false,
+        "skill": {
+          "name": "Lightning Spray",
+          "description": "Cast lightning streams from your hands to shock enemies, locking them down. Unlocking this skill also increases your Max Mana.",
+          "unlockCost": 0,
+          "refundValue": 0
+        },
+        "subSkills": [
+          {
+            "id": "ss-light-t1-1",
+            "name": "Static Disarm",
+            "description": "Zapping enemy weapons with Lightning Spray has a chance to disarm them.",
+            "unlockCost": 3,
+            "refundValue": 3
+          },
+          {
+            "id": "ss-light-t1-2",
+            "name": "Shock Trip",
+            "description": "After being electrocuted, enemies fall over.",
+            "unlockCost": 3,
+            "refundValue": 3
+          },
+          {
+            "id": "ss-1782828780633",
+            "name": "Electromagnetism",
+            "description": "Lightning imbued arrows and throwing weapons are attracted to enemies when shot or thrown.",
+            "unlockCost": 3,
+            "refundValue": 3,
+            "unlocked": false
+          }
+        ]
+      },
+      {
+        "unlocked": false,
+        "skill": {
+          "name": "Charge Sapping",
+          "description": "Lightning Spray will sap magic from a lightning-imbued weapon or spell in your other hand, granting it increased range and power. Unlocking this skill also boosts your Lightning charge speed, and allows you to spray for longer.",
+          "unlockCost": 0,
+          "refundValue": 0
+        },
+        "subSkills": [
+          {
+            "id": "ss-light-t2-1",
+            "name": "Overcharge",
+            "description": "Lightning Spray gains a burst of power and damage just before you run out of charge.",
+            "unlockCost": 6,
+            "refundValue": 6
+          },
+          {
+            "id": "ss-1782828800137",
+            "name": "Chain Lightning",
+            "description": "Lightning Spray chains lightning between enemies and metallic objects.",
+            "unlockCost": 6,
+            "refundValue": 6,
+            "unlocked": false
+          },
+          {
+            "id": "ss-1782828840865",
+            "name": "Shock Parry",
+            "description": "Parrying enemy attacks with a Lightning-imbued weapon causes them to be electrocuted.",
+            "unlockCost": 6,
+            "refundValue": 6,
+            "unlocked": false
+          }
+        ]
+      },
+      {
+        "unlocked": false,
+        "skill": {
+          "name": "Lightning Beam",
+          "description": "Merge two Lightning spells, then spread your palms to unleash a beam of pure electricity. Unlocking this skill also boosts your Lightning charge speed, and allows you to spray for longer.",
+          "unlockCost": 0,
+          "refundValue": 0
+        },
+        "subSkills": [
+          {
+            "id": "ss-light-t3-1",
+            "name": "Tesla Wires",
+            "description": "Touching two lightning imbued weapons together forms a slicing Arcwire between them for a short time.",
+            "unlockCost": 9,
+            "refundValue": 9
+          },
+          {
+            "id": "ss-1782828946328",
+            "name": "Thunderbolt",
+            "description": "Charge and throw the Lightning spell to launch a thunderbolt that chains to nearby enemies. Benefits from charge sapping.",
+            "unlockCost": 9,
+            "refundValue": 9,
+            "unlocked": false
+          },
+          {
+            "id": "ss-1782828973152",
+            "name": "Arcwire",
+            "description": "With a lightning imbued staff, press the use button and swing to whip a shocking, slicing wire of lightning.",
+            "unlockCost": 9,
+            "refundValue": 9,
+            "unlocked": false
+          }
+        ]
+      }
+    ],
+    "custom-1782852495505": [
+      {
+        "unlocked": true,
+        "skill": {
+          "name": "Burdening Palm",
+          "description": "\nShoot a Crimson Red weight energy projectile that inflicts a temporary debuff on enemies, making them heavier and slower.",
+          "unlockCost": 0,
+          "refundValue": 0
+        },
+        "subSkills": [
+          {
+            "id": "ss-1782852563369",
+            "name": "Heavy Weight AOE",
+            "description": "Increases localized gravity in an area. Enemy weapons become sluggish and heavy, and their limbs are pulled down heavily, making them take significantly longer to stand back up if knocked down.",
+            "unlockCost": 3,
+            "refundValue": 0,
+            "unlocked": true
+          },
+          {
+            "id": "ss-1782852569873",
+            "name": "Lead Balloon",
+            "description": "Striking an airborne, jumping, or falling enemy with your weight projectile violently snaps them out of the air, slamming them instantly into the dirt.",
+            "unlockCost": 3,
+            "refundValue": 3,
+            "unlocked": true
+          },
+          {
+            "id": "ss-1782852571897",
+            "name": "Inertia Displacement",
+            "description": "Striking a moving target with the weight projectile causes them to lose all forward momentum instantly, staggering them in place.",
+            "unlockCost": 3,
+            "refundValue": 3,
+            "unlocked": true
+          }
+        ]
+      },
+      {
+        "unlocked": true,
+        "skill": {
+          "name": "Heavy Hitter",
+          "description": "Close your hands into fists to prime Weight Punches. Striking enemies applies a stack of localized mass pressure.",
+          "unlockCost": 0,
+          "refundValue": 0
+        },
+        "subSkills": [
+          {
+            "id": "ss-1782852579137",
+            "name": "Seven-Fold Burden",
+            "description": "Weight Punches now apply a stack of localized mass pressure to enemies, and the effect is multiplied by 7. Each rapid punch combo dynamically multiplies the target's weight. Over the course of 7 consecutive strikes, the enemy is dragged down limb-by-limb until they are flattened completely prone to the ground.",
+            "unlockCost": 6,
+            "refundValue": 3,
+            "unlocked": true
+          },
+          {
+            "id": "ss-1782852582585",
+            "name": "Weight Anchor (Staff&Throw)",
+            "description": "Throwing an Imbued weapon creates a 2-meter heavy zone on impact, pinning nearby loose weapons and the struck target firmly to the floor.\n\n#Staff\n\nSmashing a Charged Staff into the Floor creates a 5-meter heavy zone on impact, sending nearby loose weapons and the struck target firmly to the floor.",
+            "unlockCost": 6,
+            "refundValue": 3,
+            "unlocked": true
+          }
+        ]
+      },
+      {
+        "unlocked": true,
+        "skill": {
+          "name": "Weight Well",
+          "description": "A cinematic slider spell. Hold your palm face down high up and slowly lower it to draw a straight line of red arrows. The longer the line, the stronger the crush. Clutch your palm into a fist to lock the well in place for 2 minutes.",
+          "unlockCost": 0,
+          "refundValue": 0
+        },
+        "subSkills": [
+          {
+            "id": "ss-1782852632873",
+            "name": "Weight Distribution",
+            "description": "Vertical downward strikes are augmented by a sudden, massive increase in weapon mass at the apex of the swing. The weapon effectively \"grows\" in weight during the downward motion, drastically increasing impact and velocity immediately before contact.",
+            "unlockCost": 9,
+            "refundValue": 6,
+            "unlocked": true
+          }
+        ]
+      }
+    ]
+  },
+  "crossoverData": {
+    "cross__fire__gravity__0": {
+      "unlocked": false,
+      "skill": {
+        "name": "Fan the flames",
+        "description": "Gravity push a burning enemy to spread heat to nearby enemies, eventually causing them to ignite. [Small Fire Crystal Core + Small Gravity Crystal Core]",
+        "unlockCost": 3,
+        "refundValue": 3
+      },
+      "subSkills": []
+    },
+    "cross__fire__gravity__1": {
+      "unlocked": false,
+      "skill": {
+        "name": "Repelling Burst",
+        "description": "Remote Detonation pushes enemies back, staggering them. [Fire Crystal Core + Gravity Crystal Core]",
+        "unlockCost": 6,
+        "refundValue": 6
+      },
+      "subSkills": []
+    },
+    "cross__fire__gravity__2": {
+      "unlocked": false,
+      "skill": {
+        "name": "Supernova",
+        "description": "Merge a fire and gravity spell to throw a supernova which collapses into a black hole. [Great Fire Crystal Core + Great Gravity Crystal Core]",
+        "unlockCost": 9,
+        "refundValue": 9
+      },
+      "subSkills": []
+    },
+    "cross__fire__lightning__1": {
+      "unlocked": false,
+      "skill": {
+        "name": "Fire Sapping",
+        "description": "Charge sapping fire magic will Ignite enemies hit by Lightning Spray. [Fire Crystal Core + Lightning Crystal Core]",
+        "unlockCost": 6,
+        "refundValue": 6
+      },
+      "subSkills": []
+    },
+    "cross__fire__lightning__2": {
+      "unlocked": false,
+      "skill": {
+        "name": "Plasma Beam",
+        "description": "Merge a fire and lightning spell, then pull your palms apart to blow a stream of white-hot flames that leaves a trail of magma. [Great Fire Crystal Core + Great Lightning Crystal Core]",
+        "unlockCost": 9,
+        "refundValue": 9
+      },
+      "subSkills": []
+    },
+    "cross__fire__body__0": {
+      "unlocked": false,
+      "skill": {
+        "name": "Burning Grasp",
+        "description": "Cast fire while grabbing an enemy to Ignite them, dealing damage over time. [Small Fire Crystal Core + Small Body Crystal Core]",
+        "unlockCost": 3,
+        "refundValue": 3
+      },
+      "subSkills": []
+    },
+    "cross__fire__body__1": {
+      "unlocked": false,
+      "skill": {
+        "name": "Rocket Punch",
+        "description": "Charge fire while making a fist and punch to rocket you and your enemies away. [Fire Crystal Core + Body Crystal Core]",
+        "unlockCost": 6,
+        "refundValue": 6
+      },
+      "subSkills": []
+    },
+    "cross__fire__mind__0": {
+      "unlocked": false,
+      "skill": {
+        "name": "Homing Redirection",
+        "description": "Fireballs grabbed out of the air and thrown with Telekinesis home in on enemies. [Small Fire Crystal Core + Small Mind Crystal Core]",
+        "unlockCost": 3,
+        "refundValue": 3
+      },
+      "subSkills": []
+    },
+    "cross__gravity__lightning__1": {
+      "unlocked": false,
+      "skill": {
+        "name": "Gravity Sapping",
+        "description": "Charge Sapping gravity magic will inflict Levitation on enemies hit by Lightning Spray. [Gravity Crystal Core + Lightning Crystal Core]",
+        "unlockCost": 6,
+        "refundValue": 6
+      },
+      "subSkills": []
+    },
+    "cross__gravity__lightning__2": {
+      "unlocked": false,
+      "skill": {
+        "name": "Storm Funnel",
+        "description": "Summon a massive Lightning tornado that shocks and sweeps up everything nearby. [Great Gravity Crystal Core + Great Lightning Crystal Core]",
+        "unlockCost": 9,
+        "refundValue": 9
+      },
+      "subSkills": []
+    },
+    "cross__gravity__body__0": {
+      "unlocked": false,
+      "skill": {
+        "name": "Floating Grasp",
+        "description": "Cast gravity while grabbing an enemy to Levitate them. [Small Gravity Crystal Core + Small Body Crystal Core]",
+        "unlockCost": 3,
+        "refundValue": 3
+      },
+      "subSkills": []
+    },
+    "cross__gravity__body__1": {
+      "unlocked": false,
+      "skill": {
+        "name": "Force Punch",
+        "description": "Charge gravity while making a fist and punch to inflict Levitation to enemies. [Great Gravity Crystal Core + Great Body Crystal Core]",
+        "unlockCost": 6,
+        "refundValue": 6
+      },
+      "subSkills": []
+    },
+    "cross__gravity__mind__0": {
+      "unlocked": false,
+      "skill": {
+        "name": "Weightless Kinesis",
+        "description": "Objects that you Telegrab become lighter weight and easier to handle. [Small Gravity Crystal Core + Small Mind Crystal Core]",
+        "unlockCost": 3,
+        "refundValue": 3
+      },
+      "subSkills": []
+    },
+    "cross__weight__gravity__1": {
+      "unlocked": false,
+      "skill": {
+        "name": "Gravitational Weight Pin",
+        "description": "By blending Gravity's directional manipulation with Weight's immense crushing mass, hitting an enemy near a surface pins them flat against the wall instead of pushing them to the floor. [Weight Crystal Core + Gravity Crystal Core]",
+        "unlockCost": 6,
+        "refundValue": 6
+      },
+      "subSkills": []
+    },
+    "cross__weight__body__1": {
+      "unlocked": false,
+      "skill": {
+        "name": "Lead Balloon Ground Slam",
+        "description": "Drop or dive from a height while channel-casting weight energy. Your dramatically spiked personal mass deals massive impact damage upon landing, crushing, ragdolling, and instantly knocking out surrounding enemies. [Weight Crystal Core + Body Crystal Core]",
+        "unlockCost": 6,
+        "refundValue": 6
+      },
+      "subSkills": []
+    },
+    "cross__weight__body__2": {
+      "unlocked": false,
+      "skill": {
+        "name": "Weight Anchor stack (Staff)",
+        "description": "Slam a charged staff into the ground to create a 5-meter heavy zone on impact, pinning nearby struck Enemies firmly to the floor. 1. Slam 1.5x Gravity 2. Slam 2x Gravity 3. Slam 2.5x Gravity 4. Slam 3x Gravity [Weight Crystal Core + Body Crystal Core]",
+        "unlockCost": 9,
+        "refundValue": 6
+      },
+      "subSkills": []
+    },
+    "cross__body__weight__2": {
+      "unlocked": true,
+      "skill": {
+        "name": "Weight Anchor stack (Staff)",
+        "description": "Slam a charged staff into the ground to create a 5-meter heavy zone on impact, pinning nearby struck Enemies firmly to the floor. 1. Slam 1.5x Gravity 2. Slam 2x Gravity 3. Slam 2.5x Gravity 4. Slam 3x Gravity",
+        "unlockCost": 9,
+        "refundValue": 6
+      },
+      "subSkills": []
+    },
+    "cross__body__weight__1": {
+      "unlocked": true,
+      "skill": {
+        "name": "Lead Balloon Ground Slam",
+        "description": "Drop or dive from a height while channel-casting weight energy. Your dramatically spiked personal mass deals massive impact damage upon landing, crushing, ragdolling, and instantly knocking out surrounding enemies.",
+        "unlockCost": 6,
+        "refundValue": 3
+      },
+      "subSkills": []
+    },
+    "cross__gravity__weight__1": {
+      "unlocked": true,
+      "skill": {
+        "name": "Gravitational Weight Pin",
+        "description": "By blending Gravity's directional manipulation with Weight's immense crushing mass, hitting an enemy near a surface pins them flat against the wall instead of pushing them to the floor.",
+        "unlockCost": 6,
+        "refundValue": 3
+      },
+      "subSkills": []
+    },
+    "cross__gravity__weight__0": {
+      "unlocked": false,
+      "skill": {
+        "name": "No Skill",
+        "description": "No Skill",
+        "unlockCost": 0,
+        "refundValue": 0
+      },
+      "subSkills": []
+    },
+    "cross__gravity__weight__2": {
+      "unlocked": true,
+      "skill": {
+        "name": "Mjolnir's Soul",
+        "description": "Stick your Imbued weapon in your enemies body and watch them struggle as if you rested Mjolnir on them\n(optimally pin them to the floor when they are already unbalanced)",
+        "unlockCost": 9,
+        "refundValue": 6
+      },
+      "subSkills": []
+    },
+    "cross__body__weight__0": {
+      "unlocked": true,
+      "skill": {
+        "name": "Braced Stance ",
+        "description": "While your shield is imbued, it gains massive weight and structural integrity, absorbing significantly more impact force and negating knockback.  ",
+        "unlockCost": 3,
+        "refundValue": 0
+      },
+      "subSkills": []
+    },
+    "cross__mind__weight__0": {
+      "unlocked": false,
+      "skill": {
+        "name": "No Skill",
+        "description": "No Skill",
+        "unlockCost": 0,
+        "refundValue": 0
+      },
+      "subSkills": []
+    },
+    "cross__mind__weight__1": {
+      "unlocked": true,
+      "skill": {
+        "name": "Pinboard",
+        "description": "When an enemy is pinned (prone or anchored), use telekinesis to instantly float and plunge sharp weapons from the environment (or holsters) into their limbs. Blunt weapons are automatically ignored by this targeting logic.",
+        "unlockCost": 6,
+        "refundValue": 3
+      },
+      "subSkills": []
+    },
+    "cross__mind__weight__2": {
+      "unlocked": true,
+      "skill": {
+        "name": "Singularity Drift",
+        "description": "create a Weaker \"Weight Well\" that you can freely move or slowly drag across the battlefield using your telekinetic focus, forcing enemies to stay within the crushing zone.",
+        "unlockCost": 9,
+        "refundValue": 6
+      },
+      "subSkills": []
+    },
+    "cross__lightning__weight__2": {
+      "unlocked": false,
+      "skill": {
+        "name": "No Skill",
+        "description": "No Skill",
+        "unlockCost": 0,
+        "refundValue": 0
+      },
+      "subSkills": []
+    },
+    "cross__lightning__weight__1": {
+      "unlocked": true,
+      "skill": {
+        "name": "Weighted Current (Dual Path Spell)",
+        "description": "Merge a Weight and Lightning spell, then cast to release a chain of charged voltage. Enemies struck by the arc are instantly subjected to a massive spike in localized mass, forcing them violently to the floor.",
+        "unlockCost": 6,
+        "refundValue": 3
+      },
+      "subSkills": []
+    },
+    "cross__lightning__weight__0": {
+      "unlocked": false,
+      "skill": {
+        "name": "No Skill",
+        "description": "No Skill",
+        "unlockCost": 0,
+        "refundValue": 0
+      },
+      "subSkills": []
+    },
+    "cross__body__lightning__1": {
+      "unlocked": false,
+      "skill": {
+        "name": "Thunder Punch",
+        "description": "Charge lightning while making a fist and punch an enemy to shock them and nearby enemies in a burst of sparks.",
+        "unlockCost": 6,
+        "refundValue": 6
+      },
+      "subSkills": []
+    },
+    "cross__body__lightning__2": {
+      "unlocked": false,
+      "skill": {
+        "name": "No Skill",
+        "description": "No Skill",
+        "unlockCost": 0,
+        "refundValue": 0
+      },
+      "subSkills": []
+    },
+    "cross__body__lightning__0": {
+      "unlocked": false,
+      "skill": {
+        "name": "Shocking Grasp",
+        "description": "Cast Lightning while grabbing an enemy to electrocute them and deal damage over time.",
+        "unlockCost": 3,
+        "refundValue": 3
+      },
+      "subSkills": []
+    },
+    "cross__lightning__mind__0": {
+      "unlocked": false,
+      "skill": {
+        "name": "Achronal Bolts",
+        "description": "Lightning Spray is not slowed down when you are in Slow Time or Hyperfocus.",
+        "unlockCost": 3,
+        "refundValue": 3
+      },
+      "subSkills": []
+    },
+    "cross__lightning__mind__2": {
+      "unlocked": false,
+      "skill": {
+        "name": "Weapon Theft",
+        "description": "Steal weapons out of enemies' hands by grabbing the hand with Telekinesis and pulling.",
+        "unlockCost": 9,
+        "refundValue": 9
+      },
+      "subSkills": []
+    },
+    "cross__body__gravity__0": {
+      "unlocked": false,
+      "skill": {
+        "name": "Floating Grasp",
+        "description": "Cast gravity while grabbing an enemy to Levitate them.",
+        "unlockCost": 3,
+        "refundValue": 3
+      },
+      "subSkills": []
+    },
+    "cross__body__gravity__1": {
+      "unlocked": false,
+      "skill": {
+        "name": "Force Punch",
+        "description": "Charge gravity while making a fist and punch to inflict Levitation to enemies.",
+        "unlockCost": 6,
+        "refundValue": 6
+      },
+      "subSkills": []
+    },
+    "cross__body__fire__0": {
+      "unlocked": false,
+      "skill": {
+        "name": "Burning Grasp",
+        "description": "Cast fire while grabbing an enemy to Ignite them, dealing damage over time.",
+        "unlockCost": 3,
+        "refundValue": 3
+      },
+      "subSkills": []
+    },
+    "cross__body__fire__1": {
+      "unlocked": false,
+      "skill": {
+        "name": "Rocket Punch",
+        "description": "Charge fire while making a fist and punch to rocket you and your enemies away.",
+        "unlockCost": 6,
+        "refundValue": 6
+      },
+      "subSkills": []
+    },
+    "cross__body__mind__0": {
+      "unlocked": false,
+      "skill": {
+        "name": "Temporal Riposte",
+        "description": "Enemies are briefly slowed when you successfully parry a weapon.",
+        "unlockCost": 3,
+        "refundValue": 3
+      },
+      "subSkills": []
+    },
+    "cross__custom-1782852495505__gravity__2": {
+      "unlocked": true,
+      "skill": {
+        "name": "Mjolnir's Soul",
+        "description": "Stick your Imbued weapon in your enemies body and watch them struggle as if you rested Mjolnir on them (optimally pin them to the floor when they are already unbalanced)",
+        "unlockCost": 9,
+        "refundValue": 6
+      },
+      "subSkills": []
+    },
+    "cross__body__custom-1782852495505__2": {
+      "unlocked": true,
+      "skill": {
+        "name": "Weight Anchor stack (Staff)",
+        "description": "Slam a charged staff into the ground to create a 5-meter heavy zone on impact, pinning nearby struck Enemies firmly to the floor. 1. Slam 1.5x Gravity 2. Slam 2x Gravity 3. Slam 2.5x Gravity 4. Slam 3x Gravity",
+        "unlockCost": 9,
+        "refundValue": 6
+      },
+      "subSkills": []
+    },
+    "cross__body__custom-1782852495505__1": {
+      "unlocked": true,
+      "skill": {
+        "name": "Lead Balloon Ground Slam",
+        "description": "Drop or dive from a height while channel-casting weight energy. Your dramatically spiked personal mass deals massive impact damage upon landing, crushing, ragdolling, and instantly knocking out surrounding enemies.",
+        "unlockCost": 6,
+        "refundValue": 3
+      },
+      "subSkills": []
+    },
+    "cross__body__custom-1782852495505__0": {
+      "unlocked": true,
+      "skill": {
+        "name": "Braced Stance",
+        "description": "While your shield is imbued, it gains massive weight and structural integrity, absorbing significantly more impact force and negating knockback.",
+        "unlockCost": 3,
+        "refundValue": 0
+      },
+      "subSkills": []
+    },
+    "cross__custom-1782852495505__gravity__1": {
+      "unlocked": true,
+      "skill": {
+        "name": "Gravitational Weight Pin",
+        "description": "By blending Gravity's directional manipulation with Weight's immense crushing mass, hitting an enemy near a surface pins them flat against the wall instead of pushing them to the floor.",
+        "unlockCost": 6,
+        "refundValue": 3
+      },
+      "subSkills": []
+    },
+    "cross__custom-1782852495505__gravity__0": {
+      "unlocked": false,
+      "skill": {
+        "name": "T1 Skill WG",
+        "description": "",
+        "unlockCost": 0,
+        "refundValue": 0
+      },
+      "subSkills": []
+    },
+    "cross__custom-1782852495505__lightning__1": {
+      "unlocked": true,
+      "skill": {
+        "name": "Weighted Current (Dual Path Spell)",
+        "description": "Merge a Weight and Lightning spell, then cast to release a chain of charged voltage. Enemies struck by the arc are instantly subjected to a massive spike in localized mass, forcing them violently to the floor.",
+        "unlockCost": 6,
+        "refundValue": 3
+      },
+      "subSkills": []
+    },
+    "cross__custom-1782852495505__mind__1": {
+      "unlocked": true,
+      "skill": {
+        "name": "Pinboard",
+        "description": "When an enemy is pinned (prone or anchored), use telekinesis to instantly float and plunge sharp weapons from the environment (or holsters) into their limbs. Blunt weapons are automatically ignored by this targeting logic.",
+        "unlockCost": 6,
+        "refundValue": 3
+      },
+      "subSkills": []
+    },
+    "cross__custom-1782852495505__mind__2": {
+      "unlocked": true,
+      "skill": {
+        "name": "Singularity Drift",
+        "description": "create a Weaker \"Weight Well\" that you can freely move or slowly drag across the battlefield using your telekinetic focus, forcing enemies to stay within the crushing zone.",
+        "unlockCost": 9,
+        "refundValue": 6
+      },
+      "subSkills": []
+    }
+  }
+}
