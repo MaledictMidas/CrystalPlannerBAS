@@ -86,7 +86,9 @@ This orb is used for creating Subclass skills by right-clicking on it.
 
 ### After Right-Clicking:
 Here you can plan out your Sub Skill:
+
 <img width="597" height="519" alt="image" src="https://github.com/user-attachments/assets/84d28ce3-f67f-4d9d-9476-39e0da5ef643" />
+
 
 - **Name:**
 - **Description:**
