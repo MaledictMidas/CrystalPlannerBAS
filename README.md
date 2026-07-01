@@ -27,10 +27,25 @@ This is the first thing you will see when opening the HTML file. Just like in th
 
 ### (The Download app button is just the download for the HTML)
 
-You see these 3 slots; in each, you insert one of 5 crystals as in the base game.
-- You **can** add custom crystals as well at the bottom.
-- You **can't** use the same Crystal twice.
-- You **can** swap between Crystals without losing progress.
+---
+# EDIT MODE 
+The Main Mode For the planner
+Where you do almost everything
+
+Fullscreen View:
+<img width="1917" height="948" alt="image" src="https://github.com/user-attachments/assets/30496962-d86d-440c-8cad-352928daee6c" />
+
+Buttons:
+<img width="292" height="58" alt="image" src="https://github.com/user-attachments/assets/70c84e7a-7a72-4e8b-89e2-80aac53321d3" />
+
+---
+
+# CRYSTAL SELECTION
+Each of the three slots can hold one Crystal, just like the base game.
+• Choose from the five default Crystals.
+• Create and use your own custom Crystals.
+• The same Crystal cannot be equipped twice.
+• You can freely swap between Crystals without losing your work.
 
 <img width="957" height="740" alt="image" src="https://github.com/user-attachments/assets/48044ee7-8b28-49e0-bed4-dcc5660327b9" />
 
@@ -137,3 +152,32 @@ The Symbol in the Center of the Crystal.
 <img width="381" height="427" alt="image" src="https://github.com/user-attachments/assets/3e3ab6e2-9034-434a-86d8-1b35d4def810" />
 
 > **Tip:** Any character, emoji, or symbol works as the icon. (Max 2 characters).
+
+---
+
+# [TEST MODE]
+
+The Test mode is where you test the Skill Tree and read the tooltip and check the Price and Refun Value and See how many crystals your unlocked skills cost
+
+Fullscreen View:
+<img width="938" height="857" alt="image" src="https://github.com/user-attachments/assets/32bceddf-50aa-454f-85d5-6c51a4707575" />
+
+Credits(Shards) Spent:
+<img width="1917" height="157" alt="image" src="https://github.com/user-attachments/assets/ad0bc1ea-64f6-4d99-9400-afe27b6bfab7" />
+
+Clicking on a Skill: 
+-Tooltip
+<img width="247" height="274" alt="image" src="https://github.com/user-attachments/assets/0a5bad69-97cb-448f-8009-30dedb8e4ec1" />
+
+- The Green Button Unlocks the Skill and adds the Equivilant Shards(credit) to your counter at the top
+<img width="234" height="287" alt="image" src="https://github.com/user-attachments/assets/7fc9cfb9-8f3b-49b0-b9a8-8ed8df677068" />
+
+Credit Updated:
+<img width="1915" height="445" alt="image" src="https://github.com/user-attachments/assets/8fd12001-c361-4441-802c-98c3fd4f79e0" />
+
+
+Tip: click anywhere outside the tooltip to close it again
+
+
+Buttons:
+<img width="266" height="53" alt="image" src="https://github.com/user-attachments/assets/bf35e5fb-0cb9-4f6b-a6ff-f22439f4cf7a" />
